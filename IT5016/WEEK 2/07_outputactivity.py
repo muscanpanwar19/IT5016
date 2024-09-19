@@ -1,6 +1,6 @@
 """
 Give output
-Author: Tania
+Author: muskan
 """
 result1 = 25 % 3
 result2 = 20 % 34
