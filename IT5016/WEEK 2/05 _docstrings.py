@@ -1,6 +1,6 @@
 """
 program which calculates the area of a circle
-Author: Tania
+Author: muskan
 """
 radius = float(input("Enter the radius:"))
 # radius = float(input("Enter the radius"))
