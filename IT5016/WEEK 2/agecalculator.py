@@ -1,6 +1,6 @@
 """
 Calculating a person's age
-Author:Tania
+Author:muskan
 """
 
 # variables
