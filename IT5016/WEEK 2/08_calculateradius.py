@@ -1,6 +1,6 @@
 """
 calculate the radius
-Author: Tania
+Author: muskan
 """
 
 import math
