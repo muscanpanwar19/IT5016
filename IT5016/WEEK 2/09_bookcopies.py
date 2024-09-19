@@ -1,6 +1,6 @@
 """
 calculate wholesale cost for 60 books
-Author: Tania
+Author: muskan
 """
 
 
