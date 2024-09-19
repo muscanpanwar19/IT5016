@@ -1,6 +1,6 @@
 """
 calculates the are of a reactangle
-Author: Tania
+Author: muskan
 """
 width = 3.56
 height = 8.4
